@@ -3,7 +3,7 @@ title: "eWPTXv2  تجربتي وطريقتي في المذاكرة والتحص�
 date: "2024-2-4"
 classes: wide
 header:
-  teaser: https://webhostinggeeks.com/blog/wp-content/uploads/2023/05/Apache-Tomcat-Web-Server.png
+  teaser: https://i.imgur.com/hvrv0IT.png
 ribbon: blue
 description: "CVE-2022-34305"
 categories:
