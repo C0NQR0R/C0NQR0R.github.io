@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Web Security"
+    url: /web-sec/
+  - title: "Mobile Security"
+    url: /mobile-sec/
+  - title: "Network Security"
+    url: /network-sec/
